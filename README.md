@@ -1,3 +1,3 @@
 Try it by yourself---
 
-e-commerce-by-atullya.netlify.app
+https://e-commerce-by-atullya.netlify.app/
